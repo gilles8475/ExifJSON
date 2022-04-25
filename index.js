@@ -76,4 +76,3 @@ getExifFromDir(arg).then(data => {
     })
     //console.log(data)
 })
-module.exports = getExifFromDir
