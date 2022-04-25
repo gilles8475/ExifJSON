@@ -1,0 +1,28 @@
+{
+  "name": "exif-json",
+  "version": "1.0.0",
+  "description": "extract gps coordinnates of images in a directory and generate a json file containing those coordinates",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js ./photos"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilles8475/ExifJSON.git"
+  },
+  "keywords": [
+    "gps",
+    "exif",
+    "json",
+    "geolocalization"
+  ],
+  "author": "gilles D <gilldupont@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilles8475/ExifJSON/issues"
+  },
+  "homepage": "https://github.com/gilles8475/ExifJSON#readme",
+  "dependencies": {
+    "exif": "^0.6.0"
+  }
+}
