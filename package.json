@@ -1,6 +1,6 @@
 {
   "name": "exif-json",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "extract gps coordinnates of images in a directory and generate a json file containing those coordinates",
   "main": "index.js",
   "scripts": {
